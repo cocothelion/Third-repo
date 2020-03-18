@@ -1,0 +1,22 @@
+#AWSTemplateFormationVersion: "2020-30-01"
+Resources: 
+  DevEC2Instance: 
+    Properties: 
+      ImageId: ami-09d069a04349dc3cb
+      InstanceType: t2.micro
+      KeyName: cf-2
+    Type: "AWS::EC2::Instance#AWSTemplateFormationVersion: "2020-30-01"
+Resources: 
+  DevEC2Instance: 
+    Properties: 
+      ImageId: ami-09d069a04349dc3cb
+      InstanceType: t2.micro
+      KeyName: cf-2
+    Type: "AWS::EC2::Instance#AWSTemplateFormationVersion: "2020-30-01"
+Resources: 
+  DevEC2Instance: 
+    Properties: 
+      ImageId: ami-09d069a04349dc3cb
+      InstanceType: t2.micro
+      KeyName: cf-2
+    Type: "AWS::EC2::Instance
