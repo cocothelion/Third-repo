@@ -1,14 +1,7 @@
 #AWSTemplateFormationVersion: "2010-09-09"
-InstanceSecurityGroup:
-  Properties:
-    GroupDescription: "Enable SSH access via port 22"
 Resources:
   DevEC2Instance:
     Properties:
       ImageId: ami-09d069a04349dc3cb
       InstanceType: t2.micro
     Type: "AWS::EC2::Instance"
-
-    GOD IS GOOD
-
-    all man na kossala man 
